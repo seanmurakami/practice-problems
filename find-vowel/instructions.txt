@@ -1,0 +1,1 @@
+Create a function called findVowel that accepts a string and returns an object of every vowel with the number of times that vowel occurs in the given string.
