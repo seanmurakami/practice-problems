@@ -1,0 +1,4 @@
+Create a function that takes an object as the first argument
+and an array as the second.  If the item in the array is a
+key in the object argument, then remove it.  Return the new
+object.
