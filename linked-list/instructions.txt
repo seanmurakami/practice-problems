@@ -1,0 +1,1 @@
+Create a linked list implementation that allows an insert at the head, insert at the tail, deletion of the head, deletion at the tail, deletion at a specific value, allows search of a given value.
