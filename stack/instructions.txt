@@ -1,0 +1,1 @@
+Create a stack that supports insertion and access at its top, deletion from its top, and supports search.
