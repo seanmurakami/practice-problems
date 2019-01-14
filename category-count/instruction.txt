@@ -1,0 +1,3 @@
+Create a function called categoryCount that accepts an array as the first argument and a string as the second.
+Return the number of times the string shows up in the array.  The array can be strings or another array.  Use recursion
+to get the count.
